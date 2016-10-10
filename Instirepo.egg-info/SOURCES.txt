@@ -1,0 +1,6 @@
+setup.py
+Instirepo.egg-info/PKG-INFO
+Instirepo.egg-info/SOURCES.txt
+Instirepo.egg-info/dependency_links.txt
+Instirepo.egg-info/requires.txt
+Instirepo.egg-info/top_level.txt
